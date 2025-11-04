@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46f2471d81c888b5",
+        "id": "8b20ed1ab1da8238",
         "type": "tabs",
         "children": [
           {
-            "id": "ead5981bc0deb1f9",
+            "id": "f23c5599401b331a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,19 +150,9 @@
               "icon": "lucide-list",
               "title": "Структура Rust"
             }
-          },
-          {
-            "id": "859d735177987630",
-            "type": "leaf",
-            "state": {
-              "type": "github-issue-controls-view",
-              "state": {},
-              "icon": "github",
-              "title": "Github Issue Controls"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,10 +167,11 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "githobs:Manage a github issue": false
+      "githobs:Manage a github issue": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "859d735177987630",
+  "active": "f23c5599401b331a",
   "lastOpenFiles": [
     "0.План/Rust.md",
     "1.День1-10/Установка + Hello World + Cargo.md",
