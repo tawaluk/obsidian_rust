@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1849ca14651332ca",
+        "id": "90133bd008a519e3",
         "type": "tabs",
         "children": [
           {
-            "id": "bae10bb4d169954c",
+            "id": "2d235b496a76a636",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,7 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "bases:Создать новую базу": false
     }
   },
   "active": "0ece3edf5a18bf2c",
