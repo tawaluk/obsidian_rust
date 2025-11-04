@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура"
             }
           }
         ],
@@ -163,8 +162,7 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
-      "githobs:Manage a github issue": false
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "0ece3edf5a18bf2c",
