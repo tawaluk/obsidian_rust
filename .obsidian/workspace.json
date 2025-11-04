@@ -11,10 +11,14 @@
             "id": "2d235b496a76a636",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1.День1-10/Установка + Hello World + Cargo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Установка + Hello World + Cargo"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1.День1-10/Установка + Hello World + Cargo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Установка + Hello World + Cargo"
             }
           }
         ],
@@ -165,12 +170,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0ece3edf5a18bf2c",
+  "active": "2d235b496a76a636",
   "lastOpenFiles": [
+    "1.День1-10/Переменные, мутабельность, типы данных.md",
     "0.План/Rust.md",
     "Без названия.base",
     "1.День1-10/Установка + Hello World + Cargo.md",
-    "1.День1-10/Переменные, мутабельность, типы данных.md",
     "0.План/0.1 Шаблон.md",
     "6.День51-60",
     "5.День41-50",
