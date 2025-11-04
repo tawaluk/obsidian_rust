@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8b20ed1ab1da8238",
+        "id": "1849ca14651332ca",
         "type": "tabs",
         "children": [
           {
-            "id": "f23c5599401b331a",
+            "id": "bae10bb4d169954c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.План/Rust.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rust"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.План/Rust.md",
+                "file": "Без названия.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Rust"
+              "title": "Структура Без названия"
             }
           }
         ],
@@ -167,13 +163,14 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "githobs:Manage a github issue": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "githobs:Manage a github issue": false
     }
   },
-  "active": "f23c5599401b331a",
+  "active": "0ece3edf5a18bf2c",
   "lastOpenFiles": [
     "0.План/Rust.md",
+    "Без названия.base",
     "1.День1-10/Установка + Hello World + Cargo.md",
     "1.День1-10/Переменные, мутабельность, типы данных.md",
     "0.План/0.1 Шаблон.md",
@@ -186,7 +183,6 @@
     "3.Продвинутые темы",
     "2.Структуры данных",
     "1.День1-10",
-    "Добро пожаловать.md",
-    "0.План"
+    "Добро пожаловать.md"
   ]
 }
