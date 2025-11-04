@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "36496b5bc0eaeed6",
+        "id": "d643780bfff0f6f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5e98ea4eb55a1d57",
+            "id": "c9944d54f6c606a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.День1-10/Установка + Hello World + Cargo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Установка + Hello World + Cargo"
+              "title": "Структура"
             }
           }
         ],
@@ -162,17 +161,17 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "github-sync:Sync with Remote": false
+      "bases:Создать новую базу": false
     }
   },
   "active": "0ece3edf5a18bf2c",
   "lastOpenFiles": [
-    "1.День1-10/Строки (String vs &str) - фокус на отличиях от Python.md",
+    "1.День1-10/Кортежи, массивы, функции, управление потоком.md",
     "1.День1-10/Переменные, мутабельность, типы данных.md",
-    "1.День1-10/Установка + Hello World + Cargo.md",
     "0.План/Rust.md",
     "0.План/0.1 Шаблон.md",
+    "1.День1-10/Строки (String vs &str) - фокус на отличиях от Python.md",
+    "1.День1-10/Установка + Hello World + Cargo.md",
     "Без названия.md",
     "Без названия.base",
     "6.День51-60",
