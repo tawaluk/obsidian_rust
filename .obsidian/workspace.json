@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "176b59c9e9ddd8a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f2471d81c888b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ead5981bc0deb1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.План/Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91859af73e798e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "a041a10ad82f12fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ece3edf5a18bf2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "292ae6d2eb381f0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "53527666bfca7eef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1001deb8346fb853",
+    "type": "split",
+    "children": [
+      {
+        "id": "fec530034c37ad35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fdb1a85004bb93e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.День1-10/Установка + Hello World + Cargo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Установка + Hello World + Cargo"
+            }
+          },
+          {
+            "id": "38c5708bbc9031cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.День1-10/Установка + Hello World + Cargo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Установка + Hello World + Cargo"
+            }
+          },
+          {
+            "id": "a366c8b6c219ee24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "cf436f308d32976a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.План/Rust.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Rust"
+            }
+          },
+          {
+            "id": "859d735177987630",
+            "type": "leaf",
+            "state": {
+              "type": "github-issue-controls-view",
+              "state": {},
+              "icon": "github",
+              "title": "Github Issue Controls"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "githobs:Manage a github issue": false
+    }
+  },
+  "active": "859d735177987630",
+  "lastOpenFiles": [
+    "0.План/Rust.md",
+    "1.День1-10/Установка + Hello World + Cargo.md",
+    "1.День1-10/Переменные, мутабельность, типы данных.md",
+    "0.План/0.1 Шаблон.md",
+    "6.День51-60",
+    "5.День41-50",
+    "4.День31-40",
+    "3.День21-30",
+    "2.День11-20",
+    "4.Экосистема и продвинутые возможности",
+    "3.Продвинутые темы",
+    "2.Структуры данных",
+    "1.День1-10",
+    "Добро пожаловать.md",
+    "0.План"
+  ]
+}
