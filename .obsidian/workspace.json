@@ -161,7 +161,8 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "0ece3edf5a18bf2c",
