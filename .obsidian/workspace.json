@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d643780bfff0f6f3",
+        "id": "bd08e8c629fcbfae",
         "type": "tabs",
         "children": [
           {
-            "id": "c9944d54f6c606a8",
+            "id": "1ae7d267e82fc0e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 491.5
   },
   "right": {
     "id": "1001deb8346fb853",
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -164,12 +165,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "0ece3edf5a18bf2c",
+  "active": "1ae7d267e82fc0e3",
   "lastOpenFiles": [
-    "1.День1-10/Кортежи, массивы, функции, управление потоком.md",
-    "1.День1-10/Переменные, мутабельность, типы данных.md",
     "0.План/Rust.md",
+    "1.День1-10/Кортежи, массивы, функции, управление потоком.md",
+    "1.День1-10/integers.md",
     "0.План/0.1 Шаблон.md",
+    "1.День1-10/Переменные, мутабельность, типы данных.md",
     "1.День1-10/Строки (String vs &str) - фокус на отличиях от Python.md",
     "1.День1-10/Установка + Hello World + Cargo.md",
     "Без названия.md",
